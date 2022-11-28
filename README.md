@@ -33,7 +33,7 @@ Users should be able to:
 
 - Github [Repository](https://github.com/GFTF0906/product-preview-card-component)
 - Github [Pages](https://gftf0906.github.io/product-preview-card-component/)
-- 
+  
 ## My process
 
 ### Built with
