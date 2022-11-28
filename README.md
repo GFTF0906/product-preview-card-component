@@ -32,8 +32,8 @@ Users should be able to:
 ### Links
 
 - Github [Repository](https://github.com/GFTF0906/product-preview-card-component)
-- Github [Pages]('')
-
+- Github [Pages](https://gftf0906.github.io/product-preview-card-component/)
+- 
 ## My process
 
 ### Built with
